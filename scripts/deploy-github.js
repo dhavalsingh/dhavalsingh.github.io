@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://dhavalsingh-egov.github.io/MyWebsite/',
+    repo: 'https://github.com/dhavalsingh-eGov/dhavalsingh-eGov.github.io.git',
   },
   () => {
     console.log('Deploy Complete!')
